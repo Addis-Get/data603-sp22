@@ -4,7 +4,7 @@ The article has presented and compared RDBMS as relational while NoSQL as distri
 
 Mark Drake, A Comparison of NoSQL Database Management Systems and Models (2019) https://www.digitalocean.com/community/users/mdrake 
 
-#Introduction to Data Lakes
+# Introduction to Data Lakes
 
 Data lakes provide a complete and authoritative data store that can power data analytics, BI, and machine learning. The article highlighted data lake as a central location that holds a large amount of data in its native, raw format. They were developed in response to the limitations of data warehouses, which stores data in files or folders.  Meanwhile, Lakehouse avoids the limitations of data warehouse because it is designed to manage all types of data while supporting both traditional data warehouse workloads and machine learning natively. It adds all this functionality to your existing data lake, creating a single open system to both manage all of your data and support every use case. On the other hand, Delta Lake delivers reliability, security and performance on your data lake -essential to building lakehouse architecture on top of existing storage systems such as Amazon S3, Azure Data Lake Store and Google Cloud Storage.
 
