@@ -1,13 +1,15 @@
-# Crime Data Analysis and Visualization
+# Big Data in the Aviation Industry
 
-Big data analysis plays an essential role in the knowledge discovery process of extracting of interesting patterns or knowledge for understanding various phenomena including crime incidences [1]. The purpose of this project paper is to analyze and visualize crime patterns of Prince George's County, Maryland based on publicly available Crime Incidents data [2]. To achieve this goal, big data processing python package including PySpark will be used to perform data reading, transforming, and querying and analysis. Moreover, existing python libraries including Matplotlib will be used to visualize crime data. 
+Big data presents a multitude of opportunities for the aviation industry. The ability to mine massive volumes of data from a myriad of sources to analyze and gain insights has radically altered the dynamics of business functions, marketing, and sales. Aviation as a global enterprise and as one of the biggest industries that have access to various kinds of data from multiple sources, how are airlines benefiting from data collection and analysis? The airline industry has been a customer experience expert (pre-flight and flight) with its successful loyalty programs from the beginning. However, most of the airlines has not taken advantage of big data technology yet. They have an access of great data, and with prioritization in data collection and analysis and could use big data to respond to market trends and customer needs. 
+![Airline big data modelling](https://www.markrs.co/articles/ff_big_data_markrs_copyright.jpg) 
+Image: traveldatadaily.com
 
-The rationale is crime incident and pattern analysis will enable for hotspot detection and predictive policing. Moreover, crime pattern analysis uncovers the underlying interactive process between crime events by discovering where, when, and why particular crimes are likely to occur. This will further help tool development in the law enforcement industry and safety of the community. The paper will be organized into 5parts including Introduction, objective, Methodology, Results and Discussion and Conclusions.
+Leveraging big data insights bring airlines a great competitive advantage. Using various data sources play a role in calculating real-time predicting metrics to present you with the right offer at the right time. In this sense, airline big data modelling is big business and it’s driving a new revenues for airlines and their loyalty programs. Moreover, armed with customers behavioral data, airline loyalty programs can hyper-personalized the content you see, the marketing emails you receive, and the prices displayed. In this sense, companies can provide the right incentive to the right person at the right time. The ‘How big data is changing the way we fly’ explains how some airline loyalty programs are feeding in behavioral data into their internet booking engines.
 
-[1] A. A. Alkhaibari and Ping-Tsai Chung, "Cluster analysis for reducing city crime rates," 2017 IEEE Long Island Systems, Applications and Technology Conference (LISAT), 2017, pp. 1-6, doi: 10.1109/LISAT.2017.8001983.
+![How Big Data is changing the way we fly](https://www.traveldatadaily.com/wp-content/uploads/2018/12/data-value-img-1024x558.png) 
+Image: traveldatadaily.com
 
-[2] dataPrinceGeorge's, "Crime Incidents February 2017 to Present" https://data.princegeorgescountymd.gov/Public-Safety/Crime-Incidents-February-2017-to-Present/wb4e-w4nf/data
-
+This paper will explore how big data in aviation industry is working and what kinds of information aviation companies and airlines process every day? Also some open aviation data sources will be highlighted.
 
 ```python
 
